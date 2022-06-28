@@ -63,6 +63,7 @@ resource aksCluster 'Microsoft.ContainerService/managedClusters@2021-03-01' = {
     networkProfile:{
       loadBalancerSku: 'standard'
       networkPlugin: 'azure'
+      publicNetworkAccess: 'allow'
       outboundType: 'loadBalancer'
       dockerBridgeCidr: '172.17.0.1/16'
     }
