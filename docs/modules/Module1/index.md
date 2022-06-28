@@ -19,7 +19,7 @@ Parameter Name | Description
 
 Open the button below in a new window and provide the parameters in the portal - see parameters below for an explanation of the template parameters
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Faks-advanced-autoscaling%2Fmain%2Ftools%2Fdeploy%2Fmodule1%2Fdeployrg.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fkprpg%2Faks-advanced-autoscaling%2Fmain%2Ftools%2Fdeploy%2Fmodule1%2Fdeployrg.json)
 
 
 ## Validate & Check Deployment
